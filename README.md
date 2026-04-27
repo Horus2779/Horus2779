@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lucivaldo Mielo Jr. — Software Engineer
 
-<!--
-**Horus2779/Horus2779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Laravel · PHP 8 · REST APIs · Power BI · Redis
 
-Here are some ideas to get you started:
+Engenheiro de Software com foco em back-end Laravel e BI.  
+Estagiando na **Goodyear** — reduzi processamento de BOM de 10min → 3s com Redis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack principal
+![PHP](https://img.shields.io/badge/PHP-8-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## Projetos em destaque
+- 🤖 [Identificação com IA](link) — visão computacional + ML
+- 💼 [Job Hunt](link) — automação de candidaturas via API
+- ⚙️ Goodyear BOM — Redis cache · 97% de redução de tempo
+
+📫 lucivaldomielojunior@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/lucivaldo-junior11)
