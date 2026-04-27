@@ -14,7 +14,7 @@ Estagiando na **Goodyear** — reduzi processamento de BOM de 10min → 3s com R
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Projetos em destaque
-- 💼 [Job Hunt]([link](https://github.com/Horus2779/Job-Hunt)) — automação de candidaturas via API
+- 💼 [Job Hunt](https://github.com/Horus2779/Job-Hunt) — automação de candidaturas via API
 - ⚙️ Goodyear BOM — Redis cache · 97% de redução de tempo
 
 📫 lucivaldomielojunior@gmail.com  
